@@ -5,4 +5,4 @@
 [Процесс и результат работы](https://github.com/xivwdl/biocad-sas/blob/main/biocad-sas.ipynb)
 
 ***
-Источник данных: [SAS-школа BIOCAD](https://opendata.mkrf.ru/opendata/7705851331-egrkn) 
+Источник данных: [SAS-школа BIOCAD](https://github.com/xivwdl/biocad-sas/blob/main/biocad-sas.csv) 
